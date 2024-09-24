@@ -117,11 +117,13 @@ button:hover {
 }
 
 .price-details {
-  flex: 0.5;
-  background-color: #e0e0ff;
-  padding: 20px;
-  border-radius: 10px;
-  text-align: left;
+     flex: 0.5;
+    background-color: #e0e0ff;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: left;
+    position: unset;
+    display: grid;
 }
 
 .price-details p {
