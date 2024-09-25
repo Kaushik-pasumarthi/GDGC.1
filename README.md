@@ -18,6 +18,8 @@ As in the image uploaded above, only the products with the word "mens" in their 
 
 
 .Add to Cart- The user has the option to add their liked products to cart and manage their items.
+            The cart section shows each product's details, and the price details will automatically update as products are added or removed.
+            
 ![image](https://github.com/user-attachments/assets/46dd3ac4-33c1-4139-a54a-ed4654ab002d)
 
 .Cart Features- In the cart, the user can increase the quantity of product selected while checking the real time updation of prices.
